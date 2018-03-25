@@ -1,0 +1,25 @@
+﻿<h3>DNN-Connect SiteNews Sprachpaket Deutsch (Österreich)</h3>
+<p class="Contributor">
+   helferlein.com for DNN-Connect<br />
+   <a href="mailto:mt@helferlein.com">mt@helferlein.com</a><br />
+   <a href="https://www.helferlein.com" target="_blank">helferlein.com</a><br />
+   <a href="http://dnn-connect.org" target="_blank">dnn-connect.org</a>
+</p>
+<hr/>
+<div class="License">
+   <h3>Über DNN-Connect SiteNews</h3>
+   <p class="Owner">
+      Deutsch (Österreichisches) Sprachpaket für DNN-Connect SiteNews.
+    </p>
+   <h4>Systemvoraussetzungen:</h4>
+   <ul>
+      <li>DNN Platform 07.04.02 oder höher</li>
+   </ul>
+   <h4>Versionsgeschichte:</h4>
+   <ul>
+      <li>
+         <strong>Version 01.00.00</strong><br />
+         Urspr&uuml;ngliche Ver&ouml;ffentlichung
+      </li>
+   </ul>
+</div>

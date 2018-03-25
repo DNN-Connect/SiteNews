@@ -1,0 +1,23 @@
+﻿<div class="License">
+    <h3>License</h3>
+    <p class="Owner">
+        &copy; 2017 helferlein.com ( <a href="https://www.helferlein.com/" target="_blank">helferlein.com</a> )</br>
+        Autor: Michael Tobisch
+    </p>
+   <p>
+      Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugeh&ouml;rigen Dokumentationen
+      (die "Software") erh&auml;lt, die Erlaubnis erteilt, sie uneingeschr&auml;nkt zu benutzen, inklusive und ohne Ausnahme
+      dem Recht, sie zu verwenden, kopieren, &auml;ndern, fusionieren, verlegen, verbreiten, unterlizenzieren und/oder
+      zu verkaufen, und Personen, die diese Software erhalten, diese Rechte zu geben, unter den folgenden Bedingungen:
+   </p>
+   <p>
+      Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind in allen Kopien oder Teilkopien der Software beizulegen.
+   </p>
+   <p>
+      DIE SOFTWARE WIRD OHNE JEDE AUSDRÜCKLICHE ODER IMPLIZIERTE GARANTIE BEREITGESTELLT, EINSCHLIESSLICH DER GARANTIE ZUR
+      BENUTZUNG FÜR DEN VORGESEHENEN ODER EINEM BESTIMMTEN ZWECK SOWIE JEGLICHER RECHTSVERLETZUNG, JEDOCH NICHT DARAUF
+      BESCHR&Auml;NKT. IN KEINEM FALL SIND DIE AUTOREN ODER COPYRIGHTINHABER FÜR JEGLICHEN SCHADEN ODER SONSTIGE ANSPR&Uuml;CHE
+      HAFTBAR ZU MACHEN, OB INFOLGE DER ERF&Uuml;LLUNG EINES VERTRAGES, EINES DELIKTES ODER ANDERS IM ZUSAMMENHANG MIT DER
+      SOFTWARE ODER SONSTIGER VERWENDUNG DER SOFTWARE ENTSTANDEN.
+   </p>
+</div>

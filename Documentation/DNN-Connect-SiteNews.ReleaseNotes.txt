@@ -1,0 +1,25 @@
+﻿<h3>DNN-Connect SiteNews</h3>
+<p class="Contributor">
+   dnnWerk.at for DNN-Connect<br />
+   <a href="mailto:noreply@dnnwerk.at">noreply@dnnwerk.at</a><br />
+   <a href="https://www.dnnwerk.at" target="_blank">dnnwerk.at</a><br />
+   <a href="http://dnn-connect.org" target="_blank">dnn-connect.org</a>
+</p>
+<hr/>
+<div class="License">
+   <h3>About DNN-Connect SiteNews</h3>
+   <p class="Owner">
+      Module to display new or changed content from the site.
+    </p>
+   <h4>Requirements:</h4>
+   <ul>
+      <li>DNN Platform 07.04.02 or later</li>
+   </ul>
+   <h4>Version History:</h4>
+   <ul>
+      <li>
+         <strong>Version 01.00.00</strong><br />
+         Initial Release
+      </li>
+   </ul>
+</div>
